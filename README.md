@@ -2,8 +2,9 @@
 REGULATION for "DRONE IMPACT CHALLENGE 2016 MAKUHARI", Drone Impact Challenge 2016 Official Rule
 
 ©Drone Impact Challenge, CC BY-SA4.0
-（商用利用も含めて自由に利用可能です。但し、 "©Drone Impact Challenge, CC BY-SA4.0" は必ず明記してください。）
 
+（商用利用も含めて自由に利用可能です。但し、 "©Drone Impact Challenge, CC BY-SA4.0" は必ず明記してください。）
+<https://creativecommons.org/licenses/by-sa/4.0/deed.ja>
 
 
 #１．マスタークラス
