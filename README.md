@@ -4,7 +4,9 @@ REGULATION for "DRONE IMPACT CHALLENGE 2016 MAKUHARI", Drone Impact Challenge 20
 <a href="https://github.com/droneimpactchallenge/regulation4dronerace/blob/master/PDFs/DIChallenge2016MAKUHARI_reglation.pdf">印刷用PDFファイル</a>　｜　©Drone Impact Challenge, <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.ja">CC BY-SA4.0</a>
 
 #１．マスタークラス(FPV)
-![マスタークラス コースレイアウト](https://cloud.githubusercontent.com/assets/416977/13207169/9e714d3e-d94e-11e5-9a13-b4f4c2fffb4a.png "マスタークラス コースレイアウト")## 予選
+![マスタークラス コースレイアウト](https://cloud.githubusercontent.com/assets/416977/13207169/9e714d3e-d94e-11e5-9a13-b4f4c2fffb4a.png "マスタークラス コースレイアウト")
+
+## 予選
 * タイムアタック方式
 * 飛行制限時間：３分
 * １機によるコース５周周回。飛行後、スタートゲート通過時よりタイム計測開始。
@@ -24,7 +26,8 @@ REGULATION for "DRONE IMPACT CHALLENGE 2016 MAKUHARI", Drone Impact Challenge 20
 
 
 #２．レギュラークラス（目視）
-![レギュラークラス コースレイアウト](https://cloud.githubusercontent.com/assets/416977/13207184/c128477e-d94e-11e5-9d9b-4ecfcd8a1dc3.png レギュラークラス コースレイアウト")
+![レギュラークラス コースレイアウト](https://cloud.githubusercontent.com/assets/416977/13207184/c128477e-d94e-11e5-9d9b-4ecfcd8a1dc3.png "レギュラークラス コースレイアウト")
+
 ## 本戦
 * 飛行距離競技方式
 * 飛行制限時間：３分
