@@ -1,18 +1,16 @@
 # regulation4dronerace
 REGULATION for "DRONE IMPACT CHALLENGE 2016 MAKUHARI", Drone Impact Challenge 2016 Official Rule
 
-©Drone Impact Challenge, CC BY-SA4.0
+©Drone Impact Challenge, <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.ja">CC BY-SA4.0</a>
 
-（商用利用も含めて自由に利用可能です。但し、 "©Drone Impact Challenge, CC BY-SA4.0" は必ず明記してください。）
-<https://creativecommons.org/licenses/by-sa/4.0/deed.ja>
+<a href="https://github.com/droneimpactchallenge/regulation4dronerace/blob/master/PDFs/DIChallenge2016MAKUHARI_reglation.pdf">印刷用PDFファイル</a>
 
 
-#１．マスタークラス
+#１．マスタークラス(FPV)
 ## 予選
 * ベストラップ方式
 * 飛行制限時間：３分
-* １機によるコース５周周回。
-* 飛行後、スタートゲート通過時よりタイム計測開始。
+* １機によるコース５周周回。飛行後、スタートゲート通過時よりタイム計測開始。
 * 予選上位９名が本線に進出。
 * 競技中の機体変更及びパーツ変更は可。ただし、機体検査時において、複数機の事前登録が必要。
 * ペナルティは、フラッグのショートカット及びゲート未通過の場合、ゴール後のタイムにそれぞれ５秒を加算する。
@@ -27,7 +25,7 @@ REGULATION for "DRONE IMPACT CHALLENGE 2016 MAKUHARI", Drone Impact Challenge 20
 * 準決勝及び決勝の競技中にクラッシュしてしまった場合は、自力飛行で戻れる場合を除き、その時点でリタイアとなり、競技終了までディスアーム状態にて待機すること。
 * 上記方法は、参加人数や進行の都合上余儀なく変更する場合がある。
 
-#２．レギュラークラス
+#２．レギュラークラス（目視）
 ## 本戦
 * 飛行距離競技方式
 * 飛行制限時間：３分
@@ -37,3 +35,9 @@ REGULATION for "DRONE IMPACT CHALLENGE 2016 MAKUHARI", Drone Impact Challenge 20
 * 競技中の機体変更及びパーツ変更は可。ただし、機体検査時において、複数機の事前登録が必要。
 * ペナルティは、フラッグのショートカット及びゲート未通過の場合、ゴール後の飛行距離にそれぞれ５ｍ減ずる。
 * 上記方法は、参加人数や進行の都合上余儀なく変更する場合がある。
+ 
+#３．レギュラークラス（目視）
+## 本戦
+* 飛行距離競技方式
+
+
