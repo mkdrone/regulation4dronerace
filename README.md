@@ -1,10 +1,7 @@
 # regulation4dronerace
 REGULATION for "DRONE IMPACT CHALLENGE 2016 MAKUHARI", Drone Impact Challenge 2016 Official Rule
 
-©Drone Impact Challenge, <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.ja">CC BY-SA4.0</a>
-
-<a href="https://github.com/droneimpactchallenge/regulation4dronerace/blob/master/PDFs/DIChallenge2016MAKUHARI_reglation.pdf">印刷用PDFファイル</a>
-
+<a href="https://github.com/droneimpactchallenge/regulation4dronerace/blob/master/PDFs/DIChallenge2016MAKUHARI_reglation.pdf">印刷用PDFファイル</a>　｜　©Drone Impact Challenge, <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.ja">CC BY-SA4.0</a>
 
 #１．マスタークラス(FPV)
 ## 予選
